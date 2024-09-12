@@ -2,7 +2,7 @@
 
 ## The Enchanting events website's purpose is to help clients seeking event services reach exceptional experiences.
 
-## git here 
+## https://github.com/ngaboKevin/enchantingevents.git
 
 ## Tools
 
@@ -17,3 +17,5 @@ Ngabo Kevin
 ngabo.kevi@gmail.com
 ngabokevin.netlify.app
 +250785293932
+
+
